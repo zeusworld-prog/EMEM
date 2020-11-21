@@ -1,0 +1,8 @@
+.vs/
+.idea/
+.vscode/
+bin/
+obj/
+EMEM.sln
+EMEM.vcxproj
+EMEM.vcxproj.user
